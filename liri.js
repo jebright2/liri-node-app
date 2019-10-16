@@ -8,7 +8,7 @@ var spotify = new Spotify(keys.spotify);
 
 //Set to handle user input
 var userCommand = process.argv[2]; 
-var userChoice = process.argv[3];
+var userChoice = process.argv.slice(3).join(" ");
 
 UserInput(userCommand, userChoice);
 
@@ -44,7 +44,7 @@ function concertInfo(userChoice) {
         .then(function (error, response, body) {
 
     if(!error && response.statusCode === 200) {
-        var concerts = JSON.parse (body);
+        var concerts = JSON.parse(body);
         for (var i = 0; i < concerts.length; i++) {
 
             console.log("*****EVENT INFORMATION******");
@@ -59,6 +59,7 @@ function concertInfo(userChoice) {
             fs.appendFileSync("log.txt", "Event Date: " + concerts[i].datetime + "\n");
             console.log("*****************************");
             fs.appendFileSync("log.txt", "*****************************"+ "\n");
+            
         }
     }
     else{
@@ -66,10 +67,11 @@ function concertInfo(userChoice) {
       }
 
     })
+ 
+    
 }
 
 //Spotify
-
 function songInfo(userChoice) {
     if (userChoice === undefined) {
         userChoice = "The Sign"; 
@@ -77,7 +79,7 @@ function songInfo(userChoice) {
     spotify.search(
         {
             type: "track",
-            query: userChoice
+            query: userChoice, limit: 1
         },
         function (err, data) {
             if (err) {
@@ -91,14 +93,14 @@ function songInfo(userChoice) {
                 fs.appendFileSync("log.txt", "*****SONG INFO*****\n");
                 console.log(i);
                 fs.appendFileSync("log.txt", i + "\n");
-                console.log("Song name: " + songs[i].name);
-                fs.appendFileSync("log.txt", "song name: " + songs[i].name + "\n");
+                console.log("Song Name: " + songs[i].name);
+                fs.appendFileSync("log.txt", "Song Name: " + songs[i].name + "\n");
                 console.log("Preview song: " + songs[i].preview_url);
-                fs.appendFileSync("log.txt", "preview song: " + songs[i].preview_url + "\n");
+                fs.appendFileSync("log.txt", "Preview Song: " + songs[i].preview_url + "\n");
                 console.log("Album: " + songs[i].album.name);
-                fs.appendFileSync("log.txt", "album: " + songs[i].album.name + "\n");
+                fs.appendFileSync("log.txt", "Album: " + songs[i].album.name + "\n");
                 console.log("Artist(s): " + songs[i].artists[0].name);
-                fs.appendFileSync("log.txt", "artist(s): " + songs[i].artists[0].name + "\n");
+                fs.appendFileSync("log.txt", "Artist(s): " + songs[i].artists[0].name + "\n");
                 console.log("**************************");  
                 fs.appendFileSync("log.txt", "**************************\n");
              }
@@ -118,10 +120,10 @@ function movieInfo(userChoice){
         console.log("It's on Netflix!");
         fs.appendFileSync("log.txt", "It's on Netflix!\n");
     }
-    axios.get("http://www.omdbapi.com/?t=" + userChoice + "&y=&plot=short&apikey=b3c0b435")
-        .then(function(error, response, body) {
-    // If the axios is successful
-    if (!error && response.statusCode === 200) {
+    axios.get("http://www.omdbapi.com/?t=" + userChoice + "&apikey=b3c0b435")
+        .then(function(response) {
+            console.log(response);
+    
         var movies = JSON.parse(body);
         console.log("**********MOVIE INFO*********");  
         fs.appendFileSync("log.txt", "**********MOVIE INFO*********\n");
@@ -143,11 +145,11 @@ function movieInfo(userChoice){
         fs.appendFileSync("log.txt", "Actors: " + movies.Actors + "\n");
         console.log("*****************************");  
         fs.appendFileSync("log.txt", "*****************************\n");
-    } else{
-      console.log('Error occurred.');
-    }
+    }) 
+    .catch(function(error) {
+        console.log(error);
+});
 
-});}
 
 //function to get proper Rotten Tomatoes Rating
 function getRottenTomatoesRatingObject (data) {
@@ -162,11 +164,13 @@ function getRottenTomatoesRatingObject (data) {
 
 //function for reading out of random.txt file  
 function doStuff(){
-	fs.readFile('random.txt', 'utf8', function(err, data){
-		if (err){ 
-			return console.log(err);
+	fs.readFile("random.txt", "utf8", function(error, data){
+		if (error){ 
+			return console.log(error);
 		}
         var dataArr = data.split(',');
         UserInput(dataArr[0], dataArr[1]);
-	});
+	})
+}
+
 }
