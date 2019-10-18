@@ -39,12 +39,15 @@ What happens when an invalid command is entered
 ![default-screen](/images/default.PNG)
 
 ## Liri Demo
-[![Liri-demo](/images/LiriDemo.jpeg)](https://drive.google.com/drive/u/0/folders/1tWQPNUkBOVU0X5W88RAI5JefC1NNH0ji) 
+[![Liri-demo](/images/LiriDemo.PNG)](https://drive.google.com/drive/u/0/folders/1tWQPNUkBOVU0X5W88RAI5JefC1NNH0ji) 
+
+### Completed code (abbreviated)
+![code-screen](/images/liri.PNG)
  
 ### Technologies Used
 
 * Javascript
-* Nodejs
+* NodeJS
 * Node packages:
     * Node-Spotify-API
     * Axios
