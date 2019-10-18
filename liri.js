@@ -1,10 +1,10 @@
 require("dotenv").config();
-
 var keys = require("./keys.js");
 var fs = require("fs");
 var axios = require ("axios");
 var Spotify = require('node-spotify-api');
 var spotify = new Spotify(keys.spotify);
+var moment = require ("moment");
 
 //Set to handle user input
 var userCommand = process.argv[2]; 
@@ -38,13 +38,14 @@ function UserInput (userCommand, userChoice) {
 }
 
 //Function for Concert Information
-
 function concertInfo(userChoice) {
     axios.get("https://rest.bandsintown.com/artists/" + userChoice + "/events?app_id=codingbootcamp")
-        .then(function (error, response, body) {
+        .then(function (response) {
 
-    if(!error && response.statusCode === 200) {
-        var concerts = JSON.parse(body);
+    
+        var concerts = response.data;
+       
+
         for (var i = 0; i < concerts.length; i++) {
 
             console.log("*****EVENT INFORMATION******");
@@ -53,33 +54,34 @@ function concertInfo(userChoice) {
             fs.appendFileSync("log.txt", i + "\n");
             console.log("Venue: " + concerts[i].venue.name);
             fs.appendFileSync("log.txt", "Venue: " + concerts[i].venue.name + "\n");
-            console.log("Location: " + concerts[i].venue.city + ", " + concerts[i].venue.country);
-            fs.appendFileSync("log.txt", "Location: " + concerts[i].venue.city + ", " + concerts[i].venue.country + "\n");
-            console.log("Event Date: " + concerts[i].datetime);
-            fs.appendFileSync("log.txt", "Event Date: " + concerts[i].datetime + "\n");
+            console.log("Location: " + concerts[i].venue.city + " (" + concerts[i].venue.latitude + ", " + concerts[i].venue.longitude + ")");
+            fs.appendFileSync("log.txt", "Location: " + concerts[i].venue.city + " (" + concerts[i].venue.latitude + ", " + concerts[i].venue.longitude + ")" + "\n");
+            var eventDate = moment(concerts[i].datetime).format("MM/DD/YYYY, HH:mm");
+            console.log("Event Date & Time: " + eventDate);
+            fs.appendFileSync("log.txt", "Event Date & Time: " + eventDate + "\n");
             console.log("*****************************");
             fs.appendFileSync("log.txt", "*****************************"+ "\n");
             
         }
-    }
-    else{
-        console.log("Error occurred!");
-      }
+    })
+    .catch(function (error) {
+        // handle error
+        console.log(error);
 
     })
  
     
-}
+} 
 
 //Spotify
 function songInfo(userChoice) {
-    if (userChoice === undefined) {
-        userChoice = "The Sign"; 
+    if (!userChoice) {
+        userChoice = "The Sign, Ace of Base"; 
     }
     spotify.search(
         {
             type: "track",
-            query: userChoice, limit: 1
+            query: userChoice, limit: 3
         },
         function (err, data) {
             if (err) {
@@ -109,9 +111,8 @@ function songInfo(userChoice) {
 };
 
 //Movie Info
-
 function movieInfo(userChoice){
-    if (userChoice === undefined) {
+    if (!userChoice) {
         userChoice = "Mr. Nobody"
         console.log("-----------------------");
         fs.appendFileSync("log.txt", "-----------------------\n");
@@ -120,11 +121,11 @@ function movieInfo(userChoice){
         console.log("It's on Netflix!");
         fs.appendFileSync("log.txt", "It's on Netflix!\n");
     }
-    axios.get("http://www.omdbapi.com/?t=" + userChoice + "&apikey=b3c0b435")
+    else (axios.get("http://www.omdbapi.com/?t=" + userChoice + "&apikey=b3c0b435")
         .then(function(response) {
-            console.log(response);
+            //console.log(response);
     
-        var movies = JSON.parse(body);
+        var movies = response.data;
         console.log("**********MOVIE INFO*********");  
         fs.appendFileSync("log.txt", "**********MOVIE INFO*********\n");
         console.log("Title: " + movies.Title);
@@ -148,7 +149,8 @@ function movieInfo(userChoice){
     }) 
     .catch(function(error) {
         console.log(error);
-});
+}));
+
 
 
 //function to get proper Rotten Tomatoes Rating

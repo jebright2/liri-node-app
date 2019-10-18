@@ -1,216 +1,285 @@
-*****SONG INFO*****
-0
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=7023cb404aee40c2b19b6d9c844a7dcf
-album: The Hits--Chapter One
-artist(s): Backstreet Boys
-**************************
-*****SONG INFO*****
-1
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=7023cb404aee40c2b19b6d9c844a7dcf
-album: Millennium
-artist(s): Backstreet Boys
-**************************
-*****SONG INFO*****
-2
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=7023cb404aee40c2b19b6d9c844a7dcf
-album: I Want It That Way
-artist(s): Mick Jensen
-**************************
-*****SONG INFO*****
-3
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=7023cb404aee40c2b19b6d9c844a7dcf
-album: Covers Part IV
-artist(s): Anthem Lights
-**************************
-*****SONG INFO*****
-4
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=7023cb404aee40c2b19b6d9c844a7dcf
-album: Musicbox
-artist(s): Nineties Legends
-**************************
-*****SONG INFO*****
-5
-song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
-preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=7023cb404aee40c2b19b6d9c844a7dcf
-album: Poodle Hat
-artist(s): "Weird Al" Yankovic
-**************************
-*****SONG INFO*****
-6
-song name: I Want It That Way - Reimagined
-preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=7023cb404aee40c2b19b6d9c844a7dcf
-album: I Want It That Way (Reimagined)
-artist(s): Backstreet Boys
-**************************
-*****SONG INFO*****
-7
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=7023cb404aee40c2b19b6d9c844a7dcf
-album: Beautiful Dreams
-artist(s): Tyler and Mark
-**************************
-*****SONG INFO*****
-8
-song name: I Want It That Way
-preview song: null
-album: Punk Goes Pop
-artist(s): Dynamite Boy
-**************************
-*****SONG INFO*****
-9
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=7023cb404aee40c2b19b6d9c844a7dcf
-album: Under the Covers, Vol. 3
-artist(s): Jess and Gabriel
-**************************
-*****SONG INFO*****
-10
-song name: I Want It That Way
-preview song: null
-album: I Want It That Way
-artist(s): Steel Panther
-**************************
-*****SONG INFO*****
-11
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=7023cb404aee40c2b19b6d9c844a7dcf
-album: 90 Sweet 90s Hits!
-artist(s): Backstreet Boys
-**************************
-*****SONG INFO*****
-12
-song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
-preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=7023cb404aee40c2b19b6d9c844a7dcf
-album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
-artist(s): Glee Cast
-**************************
-*****SONG INFO*****
-13
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=7023cb404aee40c2b19b6d9c844a7dcf
-album: Nu Funk
-artist(s): Scary Pockets
-**************************
-*****SONG INFO*****
-14
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=7023cb404aee40c2b19b6d9c844a7dcf
-album: NKOTBSB
-artist(s): Backstreet Boys
-**************************
-*****SONG INFO*****
-15
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=7023cb404aee40c2b19b6d9c844a7dcf
-album: Cover Sessions, Vol. 2
-artist(s): Boyce Avenue
-**************************
-*****SONG INFO*****
-16
-song name: I Want It That Way
-preview song: null
-album: I Want It That Way
-artist(s): Manuel Costa
-**************************
-*****SONG INFO*****
-17
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=7023cb404aee40c2b19b6d9c844a7dcf
-album: Selfies on Kodachrome
-artist(s): Scott Bradlee's Postmodern Jukebox
-**************************
-*****SONG INFO*****
-18
-song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
-preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=7023cb404aee40c2b19b6d9c844a7dcf
-album: The Essential "Weird Al" Yankovic
-artist(s): "Weird Al" Yankovic
-**************************
-*****SONG INFO*****
-19
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=7023cb404aee40c2b19b6d9c844a7dcf
-album: I Want It That Way
-artist(s): Yshop
-**************************
-*****SONG INFO*****
-0
-Song Name: I Want It That Way
-Preview Song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=7023cb404aee40c2b19b6d9c844a7dcf
-Album: The Hits--Chapter One
-Artist(s): Backstreet Boys
-**************************
-*****SONG INFO*****
-1
-Song Name: I Want It That Way
-Preview Song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=7023cb404aee40c2b19b6d9c844a7dcf
-Album: Millennium
-Artist(s): Backstreet Boys
-**************************
-*****SONG INFO*****
-2
-Song Name: I Want It That Way
-Preview Song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=7023cb404aee40c2b19b6d9c844a7dcf
-Album: I Want It That Way
-Artist(s): Mick Jensen
-**************************
-*****SONG INFO*****
-0
-Song Name: Free Fallin'
-Preview Song: null
-Album: Full Moon Fever
-Artist(s): Tom Petty
-**************************
-*****SONG INFO*****
-0
-Song Name: Fallin'
-Preview Song: https://p.scdn.co/mp3-preview/b3dea0edd6e1e3a122f11903463de8d2d9ff3044?cid=7023cb404aee40c2b19b6d9c844a7dcf
-Album: Songs In A Minor (Expanded Edition)
-Artist(s): Alicia Keys
-**************************
-*****SONG INFO*****
-0
-Song Name: Fallin'
-Preview Song: https://p.scdn.co/mp3-preview/b3dea0edd6e1e3a122f11903463de8d2d9ff3044?cid=7023cb404aee40c2b19b6d9c844a7dcf
-Album: Songs In A Minor (Expanded Edition)
-Artist(s): Alicia Keys
-**************************
-*****SONG INFO*****
-0
-Song Name: I Want It That Way
-Preview Song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=7023cb404aee40c2b19b6d9c844a7dcf
-Album: The Hits--Chapter One
-Artist(s): Backstreet Boys
-**************************
+**********MOVIE INFO*********
+Title: Gladiator
+Release Year: 2000
+IMDB Rating: 8.5
+Rotten Tomatoes Rating: 76%
+Country of Production: USA, UK, Malta, Morocco
+Language: English
+Plot: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+*****************************
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********MOVIE INFO*********
+Title: Undefined
+Release Year: 2006
+IMDB Rating: 6.5
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
 -----------------------
 If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
 It's on Netflix!
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
 -----------------------
 If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
 It's on Netflix!
 *****SONG INFO*****
 0
-Song Name: Free Fallin'
+Song Name: Beatiful Love
+Preview Song: https://p.scdn.co/mp3-preview/0586703e4183a4580fbfb46ac73f3cc4ee5012aa?cid=7023cb404aee40c2b19b6d9c844a7dcf
+Album: Harbor
+Artist(s): Tomppabeats
+**************************
+*****SONG INFO*****
+0
+Song Name: Beautiful Days
+Preview Song: https://p.scdn.co/mp3-preview/5098d91a0a488b7b172df143ad91bb3493e4df8d?cid=7023cb404aee40c2b19b6d9c844a7dcf
+Album: Pyramid(s)
+Artist(s): Satsang
+**************************
+*****SONG INFO*****
+0
+Song Name: Beautiful
 Preview Song: null
-Album: Full Moon Fever
-Artist(s): Tom Petty
+Album: 2000s Hip Hop
+Artist(s): Snoop Dogg
 **************************
 *****SONG INFO*****
 0
-Song Name: Fallin'
-Preview Song: https://p.scdn.co/mp3-preview/b3dea0edd6e1e3a122f11903463de8d2d9ff3044?cid=7023cb404aee40c2b19b6d9c844a7dcf
-Album: Songs In A Minor (Expanded Edition)
-Artist(s): Alicia Keys
+Song Name: Sign of the Times
+Preview Song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=7023cb404aee40c2b19b6d9c844a7dcf
+Album: Harry Styles
+Artist(s): Harry Styles
+**************************
+*****SONG INFO*****
+1
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+Preview Song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=7023cb404aee40c2b19b6d9c844a7dcf
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Artist(s): Ty Dolla $ign
+**************************
+*****SONG INFO*****
+2
+Song Name: Scared of the Dark (feat. XXXTENTACION)
+Preview Song: null
+Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+Artist(s): Lil Wayne
 **************************
 *****SONG INFO*****
 0
-Song Name: I Want It That Way
-Preview Song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=7023cb404aee40c2b19b6d9c844a7dcf
-Album: The Hits--Chapter One
-Artist(s): Backstreet Boys
+Song Name: Sign of the Times
+Preview Song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=7023cb404aee40c2b19b6d9c844a7dcf
+Album: Harry Styles
+Artist(s): Harry Styles
 **************************
+*****SONG INFO*****
+1
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+Preview Song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=7023cb404aee40c2b19b6d9c844a7dcf
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Artist(s): Ty Dolla $ign
+**************************
+*****SONG INFO*****
+2
+Song Name: Scared of the Dark (feat. XXXTENTACION)
+Preview Song: null
+Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+Artist(s): Lil Wayne
+**************************
+*****SONG INFO*****
+0
+Song Name: I Saw the Sign (Karaoke Playback with Lead Vocals) [Made Famous by Ace of Base]
+Preview Song: https://p.scdn.co/mp3-preview/56ce61443e2a6475875fb9c5ab0bacf46a2e217f?cid=7023cb404aee40c2b19b6d9c844a7dcf
+Album: Karaoke Box: Reggae Greatest Hits
+Artist(s): Karaoke Box
+**************************
+*****SONG INFO*****
+1
+Song Name: The Sign - Originally Performed By Ace Of Base
+Preview Song: https://p.scdn.co/mp3-preview/82b9848cd90f256bb5c67b77ea425b5419b69b69?cid=7023cb404aee40c2b19b6d9c844a7dcf
+Album: Basi Musicali Hits Vol.8 (Backing Tracks Altamarea)
+Artist(s): Alta Marea
+**************************
+*****SONG INFO*****
+2
+Song Name: The Sign (As Made Famous By Ace of Base)
+Preview Song: https://p.scdn.co/mp3-preview/bf8a23ccd1a586e257521afbd9e28a281edb5446?cid=7023cb404aee40c2b19b6d9c844a7dcf
+Album: Drew's Famous # 1 Karaoke Hits: 90's Party Hits Vol. 2
+Artist(s): The Karaoke Crew
+**************************
+*****SONG INFO*****
+0
+Song Name: The Sign
+Preview Song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=7023cb404aee40c2b19b6d9c844a7dcf
+Album: The Sign (US Album) [Remastered]
+Artist(s): Ace of Base
+**************************
+*****SONG INFO*****
+1
+Song Name: All That She Wants
+Preview Song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=7023cb404aee40c2b19b6d9c844a7dcf
+Album: The Sign (US Album) [Remastered]
+Artist(s): Ace of Base
+**************************
+*****SONG INFO*****
+2
+Song Name: The Sign
+Preview Song: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=7023cb404aee40c2b19b6d9c844a7dcf
+Album: Greatest Hits
+Artist(s): Ace of Base
+**************************
+*****EVENT INFORMATION******
+0
+Venue: Barclays Center
+Location: Brooklyn, United States
+Event Date: 2019-10-21T20:00:00
+*****************************
+*****EVENT INFORMATION******
+1
+Venue: Seminole Hard Rock Hotel & Casino - Hollywood, FL
+Location: Hollywood, United States
+Event Date: 2019-11-16T21:30:00
+*****************************
+*****EVENT INFORMATION******
+0
+Venue: Over Under Festival
+Location: Atlanta, United States
+Event Date: 11/23/2019
+*****************************
+*****EVENT INFORMATION******
+0
+Venue: Barclays Center
+Location: Brooklyn, United States
+Event Date: 10/21/2019
+*****************************
+*****EVENT INFORMATION******
+1
+Venue: Seminole Hard Rock Hotel & Casino - Hollywood, FL
+Location: Hollywood, United States
+Event Date: 11/16/2019
+*****************************
+*****EVENT INFORMATION******
+0
+Venue: Barclays Center
+Location: Brooklyn, United States
+Event Date: 10/21/2019, 20:00
+*****************************
+*****EVENT INFORMATION******
+1
+Venue: Seminole Hard Rock Hotel & Casino - Hollywood, FL
+Location: Hollywood, United States
+Event Date: 11/16/2019, 21:30
+*****************************
+*****EVENT INFORMATION******
+0
+Venue: Barclays Center
+Location: Brooklyn, United States
+Event Date: 10/21/2019, 08:00
+*****************************
+*****EVENT INFORMATION******
+1
+Venue: Seminole Hard Rock Hotel & Casino - Hollywood, FL
+Location: Hollywood, United States
+Event Date: 11/16/2019, 09:30
+*****************************
+*****EVENT INFORMATION******
+0
+Venue: Barclays Center
+Location: Brooklyn, United States
+Event Date: 10/21/2019, 20:00
+*****************************
+*****EVENT INFORMATION******
+1
+Venue: Seminole Hard Rock Hotel & Casino - Hollywood, FL
+Location: Hollywood, United States
+Event Date: 11/16/2019, 21:30
+*****************************
+*****EVENT INFORMATION******
+0
+Venue: Barclays Center
+Location: Brooklyn: 40.6824952, -73.9750349
+Event Date: 10/21/2019, 20:00
+*****************************
+*****EVENT INFORMATION******
+1
+Venue: Seminole Hard Rock Hotel & Casino - Hollywood, FL
+Location: Hollywood: 26.0513765, -80.2112258
+Event Date: 11/16/2019, 21:30
+*****************************
+*****EVENT INFORMATION******
+0
+Venue: Barclays Center
+Location: Brooklyn: 40.6824952, -73.9750349
+Event Date: 10/21/2019, 20:00
+*****************************
+*****EVENT INFORMATION******
+1
+Venue: Seminole Hard Rock Hotel & Casino - Hollywood, FL
+Location: Hollywood: 26.0513765, -80.2112258
+Event Date: 11/16/2019, 21:30
+*****************************
+*****EVENT INFORMATION******
+0
+Venue: Barclays Center
+Location: Brooklyn: 40.6824952, -73.9750349
+Event Date: 10/21/2019, 20:00
+*****************************
+*****EVENT INFORMATION******
+1
+Venue: Seminole Hard Rock Hotel & Casino - Hollywood, FL
+Location: Hollywood: 26.0513765, -80.2112258
+Event Date: 11/16/2019, 21:30
+*****************************
+*****EVENT INFORMATION******
+0
+Venue: Barclays Center
+Location: Brooklyn: 40.6824952, -73.9750349
+Event Date: 10/21/2019, 20:00
+*****************************
+*****EVENT INFORMATION******
+1
+Venue: Seminole Hard Rock Hotel & Casino - Hollywood, FL
+Location: Hollywood: 26.0513765, -80.2112258
+Event Date: 11/16/2019, 21:30
+*****************************
+*****EVENT INFORMATION******
+0
+Venue: Barclays Center
+Location: Brooklyn (40.6824952, -73.9750349)
+Event Date & Time: 10/21/2019, 20:00
+*****************************
+*****EVENT INFORMATION******
+1
+Venue: Seminole Hard Rock Hotel & Casino - Hollywood, FL
+Location: Hollywood (26.0513765, -80.2112258)
+Event Date & Time: 11/16/2019, 21:30
+*****************************
+**********MOVIE INFO*********
+Title: Gladiator
+Release Year: 2000
+IMDB Rating: 8.5
+Rotten Tomatoes Rating: 76%
+Country of Production: USA, UK, Malta, Morocco
+Language: English
+Plot: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+*****************************
