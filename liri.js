@@ -151,8 +151,6 @@ function movieInfo(userChoice){
         console.log(error);
 }));
 
-
-
 //function to get proper Rotten Tomatoes Rating
 function getRottenTomatoesRatingObject (data) {
     return data.Ratings.find(function (item) {
@@ -163,9 +161,10 @@ function getRottenTomatoesRatingObject (data) {
   function getRottenTomatoesRatingValue (data) {
     return getRottenTomatoesRatingObject(data).Value;
   }
+}
 
-//function for reading out of random.txt file  
-function doStuff(){
+//function to read the random.txt file  
+function doStuff() {
 	fs.readFile("random.txt", "utf8", function(error, data){
 		if (error){ 
 			return console.log(error);
@@ -173,6 +172,5 @@ function doStuff(){
         var dataArr = data.split(',');
         UserInput(dataArr[0], dataArr[1]);
 	})
-}
+};  
 
-}

@@ -19,26 +19,27 @@ https://github.com/jebright2/liri-node-app
    * `do-what-it-says`
 
 **Example 1** `concert-this`:
-This feature is currently not working...
+Successful search!
 ![concert-screen](/images/concert-error.PNG)
 
 **Example 2** `spotify-this-song`:
-Successful search (code: Limit 1 result)
+Successful search (code: Limit 3 results)
 ![spotify-screen](/images/Spotify.PNG)
 
 **Example 3** `movie-this`:
-This feature is currently not working...
+Successful search!
 ![movie-screen](/images/movie-this-error.PNG)
 
 **Example 4** `do-what-it-says`:
 Successful search of the random.txt file
 ![random-screen](/images/do-what-it-says.PNG)
 
-**Example 5** Default
-What happens when a valid command is entered
+**Example 5** Default:
+What happens when an invalid command is entered
 ![default-screen](/images/default.PNG)
 
-`**Video will be placed here once app is fully-functional**`
+## Liri Demo
+[![Liri-demo](/images/LiriDemo.webm)](https://drive.google.com/drive/u/0/folders/1tWQPNUkBOVU0X5W88RAI5JefC1NNH0ji) 
  
 ### Technologies Used
 
